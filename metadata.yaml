@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36052'
     url: http://www.gutenberg.org/2009/agents/36052
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39910#Omphalos--An-Attempt-to-Untie-the-Geological-Knot
 gutenberg_issued: '2012-06-03'
 gutenberg_type: Text
 identifiers:
